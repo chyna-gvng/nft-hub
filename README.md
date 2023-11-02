@@ -9,4 +9,4 @@ A landing page for a mock NFT marketplace.
 [Link](https://www.figma.com/community/file/1268100719044054170)
 
 ### Preview
-![Figma Design Snap](/src/images/thumbnail.png)
+![Design Thumbnail](/src/images/thumbnail.png)
